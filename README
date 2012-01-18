@@ -1,0 +1,13 @@
+Name: Zachary Stigall
+Dir: Htemp
+About Dir:
+    Basic Temperature Conversion Utility in Haskell
+Contents:
+    Htemp.hs
+    README
+
+Htemp.hs
+    Has basic temp conversions for
+        Delisle
+        Celsius
+        Farenheit
